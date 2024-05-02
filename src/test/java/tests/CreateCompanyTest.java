@@ -18,7 +18,7 @@ public class CreateCompanyTest {
 
     public WebDriver driver;
     public SupplySyncLoginPage supplySyncLoginPage;
-    private CreateCompanyPage supplySyncCreateCompanyPage;
+    public CreateCompanyPage supplySyncCreateCompanyPage;
 
     @BeforeMethod
     public void setUp() {
